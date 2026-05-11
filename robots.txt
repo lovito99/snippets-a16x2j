@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lovito99.github.io/snippets-a16x2j/sitemap.xml
